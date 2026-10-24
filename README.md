@@ -1,6 +1,6 @@
 # Cafe Soft - Kafe & Restoran POS Yönetim Sistemi
 
-![Private Repository](https://img.shields.io/badge/Status-Private-blue?style=flat-square)
+![Private Repository](https://img.shields.io/badge/Status-Public-green?style=flat-square)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)
 ![Platform](https://img.shields.io/badge/Platform-DOTNET-orange?style=flat-square)
 [![Developer Page](https://img.shields.io/badge/HazeDev-Play_Store-01875F?style=flat-square&logo=google-play&logoColor=white)](https://play.google.com/store/apps/dev?id=8443591393731960192)
