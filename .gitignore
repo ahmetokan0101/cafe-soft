@@ -1,0 +1,23 @@
+
+
+# --- Auto-injected Git Safety Rules ---
+*.zip
+*.rar
+*.7z
+*.tar.gz
+*.iso
+*.pdb
+.gradle/
+**/.gradle/
+node_modules/
+.dart_tool/
+build/
+ephemeral/
+/vendor/
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+[Bb]in/
+[Oo]bj/
+.vs/
